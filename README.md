@@ -20,7 +20,7 @@
 - HTML
 - CSS
 - JavaScript
-  ## Projects
+ ## Projects
 
 🔹 Disease Prediction System
 
