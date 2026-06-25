@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sanika 👋
 
-<!--
-**SanikaSakatakar/SanikaSakatakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech AIML Student
 
-Here are some ideas to get you started:
+💻 Java Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning Spring Boot & DSA
+
+📚 Solving LeetCode Problems
+
+🚀 Looking for Software Developer Roles
+
+## Skills
+
+- Java
+- Spring Boot
+- MySQL
+- Git
+- GitHub
+- HTML
+- CSS
+- JavaScript
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/sanika-sakatakar-78b655355
+- LeetCode: leetcode.com/u/Sanika_Sakatakar/
