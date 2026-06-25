@@ -20,6 +20,24 @@
 - HTML
 - CSS
 - JavaScript
+  ## Projects
+
+🔹 Disease Prediction System
+
+🔹 Campus Placement Management System
+
+🔹 ResumeAI
+
+🔹 Secure Authentication System
+
+## Currently Learning
+
+- Data Structures & Algorithms
+
+- Spring Boot
+
+- REST API Development
+
 
 ## Connect With Me
 
