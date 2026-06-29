@@ -1,4 +1,4 @@
-# Hi, I'm Sanika 👋
+# Hi, I'm Sanika Sakatkar👋
 
 🎓 Final Year B.Tech AIML Student
 
