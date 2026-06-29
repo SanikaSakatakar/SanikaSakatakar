@@ -20,6 +20,7 @@
 - HTML
 - CSS
 - JavaScript
+- OOP
  ## Projects
 
 🔹 Disease Prediction System
