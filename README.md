@@ -2,9 +2,9 @@
 
 🎓 Final Year B.Tech AIML Student
 
-💻 Java Developer
+💻 Java Developer 
 
-🌱 Learning Spring Boot & DSA
+🌱 Learning Spring Boot & DSA(java)
 
 📚 Solving LeetCode Problems
 
