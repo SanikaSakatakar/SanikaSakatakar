@@ -1,6 +1,6 @@
 # Hi, I'm Sanika Sakatkar👋
 
-🎓 Final Year B.Tech AIML Student
+🎓 Final Year B.Tech CSE-AI Student
 
 💻 Java Developer 
 
