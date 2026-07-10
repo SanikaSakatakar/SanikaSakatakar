@@ -2,7 +2,7 @@
 
 🎓 Final Year B.Tech CSE-AI Student
 
-💻 Java Developer 
+💻 Java Developer
 
 🌱 Learning Spring Boot & DSA(java)
 
@@ -21,7 +21,7 @@
 - CSS
 - JavaScript
 - OOP
- ## Projects
+ ##  Projects
 
 🔹 Disease Prediction System
 
